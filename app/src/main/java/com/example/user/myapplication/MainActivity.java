@@ -11,7 +11,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    private boolean test = false;
+    private boolean test = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
